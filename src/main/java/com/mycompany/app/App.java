@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("I love food more than keysight more than jenkins");
+        System.out.println("I love fooooddd");
     }
 
     public String getMessage() {
